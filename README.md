@@ -39,7 +39,7 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/vishwesh-rushi-1197b328b/"> -->
+    <a href="https://www.linkedin.com/in/vishwesh-rushi-1197b328b/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/VenketeshRushi" />
     </a> 
     <a title="rushivishwesh02@gmail.com" href="mailto:rushivishwesh02@gmail.com">

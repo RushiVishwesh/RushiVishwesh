@@ -39,9 +39,9 @@
 
 
 <p align="left">
-<!--     <a href="https://www.linkedin.com/in/venketesh-rushi-423722236/"> -->
+    <a href="https://www.linkedin.com/in/vishwesh-rushi-1197b328b/"> -->
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/VenketeshRushi" />
-<!--     </a> -->
+    </a> 
     <a title="rushivishwesh02@gmail.com" href="mailto:rushivishwesh02@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
     </a>
